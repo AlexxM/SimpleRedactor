@@ -1,0 +1,9 @@
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\bin\Release\SimpleRedactor.exe
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\bin\Release\SimpleRedactor.pdb
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\ImageManipulation.CreateNewImageForm.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\ImageManipulation.MainForm.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\ImageManipulation.DetailForm.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\SimpleRedactor.Properties.Resources.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\simpleRedactor.csproj.GenerateResource.Cache
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\SimpleRedactor.exe
+C:\tempMyDoc\Visual Studio 2010\Projects\SimpleRedactor\simpleRedactor\obj\x86\Release\SimpleRedactor.pdb
